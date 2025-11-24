@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102172970644",
+    "project_id": "mt-task-alabtechnology",
+    "storage_bucket": "mt-task-alabtechnology.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102172970644:android:3daf2931c2606b98a4ae81",
+        "android_client_info": {
+          "package_name": "com.example.mt_task_alabtechnology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH1eTZ4RzGgDybDkWMqI8LLKOqGWZub78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
