@@ -77,7 +77,7 @@ The project is configured to sign the release build automatically using `key.pro
 The app handles notifications in three states:
 1.  **Background:** System tray notification (handled by Firebase).
 2.  **Terminated:** System tray notification (handled by Firebase).
-3.  **Foreground:** Heads-up banner (handled by `flutter_local_notifications`).
+
 
 **To Test Notifications:**
 1.  Run the app and check the debug console for **FCM TOKEN**.
