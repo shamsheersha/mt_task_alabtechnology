@@ -84,8 +84,7 @@ The app handles notifications in three states:
 2.  Use Firebase Console -> Messaging to send a test message to that token.
 
 ## Images
-![alt text](<WhatsApp Image 2025-1
-1-24 at 20.12.54_54ee1493.jpg>)
+![alt text](<WhatsApp Image 2025-11-24 at 20.12.54_87eb66f0.jpg>)
 
 ![alt text](<WhatsApp Image 2025-11-24 at 20.12.54_54451f87.jpg>)
 
